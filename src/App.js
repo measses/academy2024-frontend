@@ -40,7 +40,7 @@ function App() {
             type="submit"
             className="w-full bg-blue-500 text-white py-2 rounded-md hover:bg-blue-600 transition duration-300"
           >
-            Backend İsteği Gönder
+            Backend İsteği Gönder.
           </button>
         </form>
         {greeting && (
